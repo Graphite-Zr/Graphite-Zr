@@ -1,8 +1,4 @@
-=====--- I’m @Graphite-Zr ---======
-
-      Home of Rookie Spec Gits
-      
-==========-----------==========
+GitHub
 
 
 <!---
